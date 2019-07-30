@@ -1,0 +1,1 @@
+In this project I recreated the Google Homepage. To make it possible I had to demostrate basic html skills such as: insert images and links, make search bars and buttons. In regards to CSS I must proved skills related to the appereance of the aforementioned items.
